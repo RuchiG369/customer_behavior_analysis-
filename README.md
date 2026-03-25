@@ -23,7 +23,7 @@ The dataset contains structured customer purchase information used to analyze pr
 ## 🛠️ Tools & Technologies
 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
-- **SQL**: PostgreSQL / MySQL / SQL Server
+- **SQL**: PostgreSQL 
 - **Tableau**: Dashboard design and visualization
 - **Gamma**: Presentation creation
 - **Jupyter Notebook**: Analysis environment
@@ -48,10 +48,11 @@ The dataset contains structured customer purchase information used to analyze pr
 - Prepared the data for SQL querying and dashboard use
 
 ### 4. SQL Analysis
-- Wrote SQL queries to answer business questions
+- Wrote SQL queries in PostgreSQL to answer business questions
 - Performed filtering, grouping, aggregations, and ranking
 - Analyzed product ratings, discount impact, subscription behavior, customer segmentation, and revenue
 
+  
 ### 5. Dashboard Creation
 - Built an interactive dashboard in Tableau
 - Highlighted key KPIs and business insights
@@ -111,5 +112,9 @@ Some of the main insights from the analysis include:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/RuchiG369/customer_behavior_analysis-.git
-cd customer_behavior_analysis-
+git clone https://github.com/RuchiG369/customer_behavior_analysis.git
+cd customer_behavior_analysis
+ ```
+### 2. Run SQL Queries
+
+Use PostgreSQL to run the SQL queries provided in `customer_shopping_behavior.sql`.
