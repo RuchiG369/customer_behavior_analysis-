@@ -11,11 +11,10 @@ This project presents an end-to-end data analytics workflow using customer shopp
 - **Dataset Name:** Customer Shopping Behavior Dataset
 - **Format:** CSV
 - **Files Included:**
-  - `customer shopping behavior .csv`
-  - `customer shopping behavior .sql`
-  - `customer behavior Dashboard .png`
-  - `customer behavior pdf .pdf`
-
+  - `customer_shopping_behavior.csv`
+  - `customer_shopping_behavior.sql`
+  - `customer_behavior_dashboard.png`
+  - `customer_behavior_report.pdf`
 The dataset contains structured customer purchase information used to analyze product trends, spending behavior, subscription patterns, shipping preferences, customer segments, and revenue contribution across groups.
 
 ---
